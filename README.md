@@ -1,7 +1,5 @@
 # AutonomousVehicles
 
-Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
-
 ## Description:
 This project is intended to maintain base code for autonomouse vehicle navigation based projects on Q-learning, a reinforcement learning style of machine learning. It is written in Python and hosted in a Jupyter Notebook to help with readability and understandability.
 
